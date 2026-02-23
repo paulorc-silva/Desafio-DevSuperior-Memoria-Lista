@@ -1,6 +1,6 @@
 package br.com.devsuperior.application;
 
-import br.com.devsuperior.desafios.poo.contribuintes.entities.TaxPayer;
+import br.com.devsuperior.entities.TaxPayer;
 
 import java.util.ArrayList;
 import java.util.List;
